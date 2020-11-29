@@ -1,0 +1,21 @@
+body {
+    font-family: 'Jua', sans-serif;
+    background-color: #FAE0D4;
+}
+
+img {
+    width: 280px;
+    height: 200px;
+    margin: 10px;
+}
+
+.header {
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.contents {
+    text-align: center;
+    margin: 15px;
+}
