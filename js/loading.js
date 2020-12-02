@@ -29,9 +29,9 @@ function determineType(score){
     if(score <= 4){
         type = "rest";
     }else if(score <= 9){
-        type = "";
+        type = "greedy";
     }else{
-        type = "";
+        type = "pray";
     }
 
     location.href = type + ".html";
