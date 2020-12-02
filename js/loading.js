@@ -28,7 +28,7 @@ function determineType(score){
     
     if(score <= 4){
         type = "rest";
-    }else if(scoe <= 9){
+    }else if(score <= 9){
         type = "";
     }else{
         type = "";
